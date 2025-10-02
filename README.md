@@ -29,7 +29,7 @@
 
 A special container that automatically sorts and distributes items to other nearby storage containers.
 
-> (Current version (Robotic Inbox Continued) maintained by [Duncanois](https://github.com/Duncanois), available at [7 Days to Die Mods](https://7daystodiemods.com/robotic-inbox/))
+> (Current version (Robotic Inbox Continued) maintained by [Duncanois](https://github.com/Duncanois), available at [Releases](https://github.com/Duncanois/robotic-inbox-continued/releases/tag/Release) and [7 Days to Die Mods](https://7daystodiemods.com/robotic-inbox/))
 >
 
 ![robotic inbox, standard color](https://raw.githubusercontent.com/jonathan-robertson/robotic-inbox/media/robotic-inbox-blue.png)
