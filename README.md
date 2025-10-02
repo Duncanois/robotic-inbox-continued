@@ -1,6 +1,3 @@
-# Robotic Inbox [![Status: 💟 End of Life](https://img.shields.io/badge/💟%20Status-End%20of%20Life-blue.svg)](#support)
-
-[![🚀 Automatic Release](https://github.com/jonathan-robertson/robotic-inbox/actions/workflows/automatic-release.yml/badge.svg)](https://github.com/jonathan-robertson/robotic-inbox/actions/workflows/automatic-release.yml)
 [![✅ Dedicated Servers Supported ServerSide](https://img.shields.io/badge/✅%20Dedicated%20Servers-Supported%20Serverside-blue.svg)](https://7daystodie.com/)
 [![✅ Single Player and P2P Supported](https://img.shields.io/badge/✅%20Single%20Player%20and%20P2P-Supported-blue.svg)](https://7daystodie.com/)
 
@@ -35,14 +32,16 @@ A special container that automatically sorts and distributes items to other near
 > 💟 This mod has reached [End of Life](#support) and will not be directly updated to support 7 Days to Die 2.0 or beyond. Because this mod is [MIT-Licensed](LICENSE) and open-source, it is possible that other modders will keep this concept going in the future.
 >
 > Searching [NexusMods](https://nexusmods.com) or [7 Days to Die Mods](https://7daystodiemods.com) may lead to discovering other mods either built on top of or inspired by this mod.
+> (Current version (Robotic Inbox Continued) maintained by Duncanois, available at [7 Days to Die Mods](https://7daystodiemods.com/robotic-inbox/))
+>
 
 ![robotic inbox, standard color](https://raw.githubusercontent.com/jonathan-robertson/robotic-inbox/media/robotic-inbox-blue.png)
 
+
+
 ### Support
 
-💟 This mod has reached its end of life and is no longer supported or maintained by Kanaverum ([Jonathan Robertson](https://github.com/jonathan-robertson) // me). I am instead focused on my own game studio ([Calculating Chaos](https://calculatingchaos.com), if curious).
-
-❤️ All of my public mods have always been open-source and are [MIT-Licensed](LICENSE); please feel free to take some or all of the code to reuse, modify, redistribute, and even rebrand however you like! The code in this project isn't perfect; as you update, add features, fix bugs, and otherwise improve upon my ideas, please make sure to give yourself credit for the work you do and publish your new version of the mod under your own name :smile: :tada:
+💟 This mod has reached its end of life and is no longer supported or maintained by Kanaverum ([Jonathan Robertson](https://github.com/jonathan-robertson)). [Duncanois](https://github.com/Duncanois) has taken over as author as per Kanaverum's permission. Support can be found here: [Toxics 7D2D Discord](https://discord.gg/82bkRSqGVc)
 
 ## Features
 
