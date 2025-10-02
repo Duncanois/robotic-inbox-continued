@@ -32,7 +32,7 @@ A special container that automatically sorts and distributes items to other near
 > 💟 This mod has reached [End of Life](#support) and will not be directly updated to support 7 Days to Die 2.0 or beyond. Because this mod is [MIT-Licensed](LICENSE) and open-source, it is possible that other modders will keep this concept going in the future.
 >
 > Searching [NexusMods](https://nexusmods.com) or [7 Days to Die Mods](https://7daystodiemods.com) may lead to discovering other mods either built on top of or inspired by this mod.
-> (Current version (Robotic Inbox Continued) maintained by Duncanois, available at [7 Days to Die Mods](https://7daystodiemods.com/robotic-inbox/))
+> (Current version (Robotic Inbox Continued) maintained by [Duncanois](https://github.com/Duncanois), available at [7 Days to Die Mods](https://7daystodiemods.com/robotic-inbox/))
 >
 
 ![robotic inbox, standard color](https://raw.githubusercontent.com/jonathan-robertson/robotic-inbox/media/robotic-inbox-blue.png)
